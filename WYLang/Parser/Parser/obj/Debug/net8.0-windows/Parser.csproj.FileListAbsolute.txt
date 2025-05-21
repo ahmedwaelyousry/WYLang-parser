@@ -1,0 +1,38 @@
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\Parser.exe
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\Parser.deps.json
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\Parser.runtimeconfig.json
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\Parser.dll
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\Parser.pdb
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\CalithaLib.dll
+C:\Users\ma906\source\repos\Parser\Parser\bin\Debug\net8.0-windows\GoldParserEngine.dll
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.AssemblyReference.cache
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.Form1.resources
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.GenerateResource.cache
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.AssemblyInfoInputs.cache
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.AssemblyInfo.cs
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.CoreCompileInputs.cache
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.Up2Date
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.dll
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\refint\Parser.dll
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.pdb
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\Parser.genruntimeconfig.cache
+C:\Users\ma906\source\repos\Parser\Parser\obj\Debug\net8.0-windows\ref\Parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\Parser.exe
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\Parser.deps.json
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\Parser.runtimeconfig.json
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\Parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\Parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.AssemblyReference.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.Form1.resources
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.GenerateResource.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.AssemblyInfoInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.AssemblyInfo.cs
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.CoreCompileInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.csproj.Up2Date
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\refint\Parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.genruntimeconfig.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\ref\Parser.dll

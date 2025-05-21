@@ -1,0 +1,36 @@
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.AssemblyReference.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\Parser.Form1.resources
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.GenerateResource.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.AssemblyInfoInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.AssemblyInfo.cs
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.CoreCompileInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.exe
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.deps.json
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.runtimeconfig.json
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang p.4CEB4536.Up2Date
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\refint\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.genruntimeconfig.cache
+C:\Users\zinno\Downloads\Telegram Desktop\Parser\Parser\Parser\obj\Debug\net8.0-windows\ref\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.exe
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.deps.json
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.runtimeconfig.json
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\bin\Debug\net8.0-windows\WYLang parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.AssemblyReference.cache
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\Parser.Form1.resources
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.GenerateResource.cache
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.AssemblyInfoInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.AssemblyInfo.cs
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.csproj.CoreCompileInputs.cache
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang p.4CEB4536.Up2Date
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\refint\WYLang parser.dll
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.pdb
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\WYLang parser.genruntimeconfig.cache
+C:\Users\zinno\Downloads\Telegram Desktop\WYLang\Parser\Parser\obj\Debug\net8.0-windows\ref\WYLang parser.dll

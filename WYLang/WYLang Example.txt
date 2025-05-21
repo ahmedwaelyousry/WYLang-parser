@@ -1,0 +1,25 @@
+Start
+
+let x = 10;
+let y = 5;
+
+function add with a, b:
+    let result = a + b;
+    return result;
+
+function factorial with n:
+    let result = 1;
+    while n > 1 do:
+        let result = result * n;
+        let n = n - 1;
+    return result;
+
+if x > y then:
+    print "x is greater than y";
+else:
+    print "x is not greater than y";
+
+let numbers = 3;
+for i in numbers do:
+    print i;
+End

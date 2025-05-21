@@ -1,0 +1,141 @@
+"Name"     = 'WYLang'
+"Author"   = 'Ahmed Wael'
+"Version"  = '1.0'
+"About"    = 'Pld Task'
+           
+"Start Symbol" = <program>
+
+! -------------------------
+! Character Sets
+! -------------------------
+
+{ID Head}      = {Letter} + [_]
+{ID Tail}      = {Alphanumeric} + [_]
+{String Chars} = {Printable} + {HT} - ["\\]
+
+! -------------------------
+! Terminals
+! -------------------------
+
+Identifier     = {ID Head}{ID Tail}*
+Integer        = {digit}+
+StringLiteral  = '"' {String Chars}* '"'
+
+Plus           = '+'
+Minus          = '-'
+Times          = '*'
+Divide         = '/'
+Mod            = '%'
+
+Assign         = '='
+
+Equal          = '=='
+NotEqual       = '!='
+Less           = '<'
+Greater        = '>'
+LessEqual      = '<='
+GreaterEqual   = '>='
+
+And            = 'and'
+Or             = 'or'
+Not            = 'not'
+
+LParen         = '('
+RParen         = ')'
+Comma          = ','
+Semicolon      = ';'
+Colon          = ':'
+
+If             = 'if'
+Else           = 'else'
+Then           = 'then'
+While          = 'while'
+Do             = 'do'
+For            = 'for'
+In             = 'in'
+Let            = 'let'
+Print          = 'print'
+Function       = 'function'
+Call           = 'call'
+With           = 'with'
+Params         = 'params'
+Begin          = 'begin'
+Return         = 'return'
+Start          = 'Start'
+End            = 'End'
+
+! -------------------------
+! Rules
+! -------------------------
+
+<program> ::= Start <statement_list> End
+
+<statement_list> ::= <statement>
+                   | <statement_list> <statement>
+
+<statement> ::= <assignment>
+              | <if_statement>
+              | <while_statement>
+              | <for_statement>
+              | <print_statement>
+              | <function_def>
+              | <function_call>
+
+<assignment> ::= Let Identifier Assign <expression> Semicolon
+
+<if_statement> ::= If <expression> Then Colon <statement_block> <else_part>
+
+<else_part> ::= 
+    | Else Colon <statement_block>
+
+<while_statement> ::= While <expression> Do Colon <statement_block>
+
+<for_statement> ::= For Identifier In <expression> Do Colon <statement_block>
+
+<print_statement> ::= Print <expression> Semicolon
+
+<function_def> ::= Function Identifier With <param_list> Colon <statement_block> Return <expression> Semicolon
+
+<function_call> ::= Call Identifier With <arg_list> Semicolon
+
+<statement_block> ::= <statement>
+                    | <statement_block> <statement>
+
+<expression> ::= <expression> Or <and_expr>
+               | <and_expr>
+
+<and_expr> ::= <and_expr> And <not_expr>
+             | <not_expr>
+
+<not_expr> ::= Not <compare_expr>
+             | <compare_expr>
+
+<compare_expr> ::= <add_expr> <compare_op> <add_expr>
+                 | <add_expr>
+
+<compare_op> ::= Equal | NotEqual | Less | Greater | LessEqual | GreaterEqual
+
+<add_expr> ::= <add_expr> Plus <mul_expr>
+             | <add_expr> Minus <mul_expr>
+             | <mul_expr>
+
+<mul_expr> ::= <mul_expr> Times <unary>
+             | <mul_expr> Divide <unary>
+             | <mul_expr> Mod <unary>
+             | <unary>
+
+<unary> ::= Minus <unary>
+          | Plus <unary>
+          | <factor>
+
+<factor> ::= LParen <expression> RParen
+           | Identifier
+           | Integer
+           | StringLiteral
+
+<param_list> ::= Identifier
+               | Identifier Comma <param_list>
+
+<arg_list> ::= <expression>
+             | <expression> Comma <arg_list>
+
